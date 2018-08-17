@@ -1,0 +1,1 @@
+UPDATE Houser SET description = $2 WHERE Houser_id = $1;
